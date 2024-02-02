@@ -34,7 +34,7 @@ Abaixo, compartilhamos alguns excertos gerados pelo modelo pré-treinado. Possiv
 
 ### Estrutura do Repositório 📂
 
-Disponibilizamos três script em Pythons:
+Disponibilizamos três scripts em Pythons:
 
 - machado-gpt.py: realiza o treinamento local do modelo, tomando como base a obra completa concatenada e disponibilizada na pasta /processado
 
