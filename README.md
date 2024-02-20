@@ -8,7 +8,7 @@ Este repositório armazena os scripts utilizados para treinar um modelo do tipo 
 
 📥 O dataset foi obtido em https://www.kaggle.com/datasets/luxedo/machado-de-assis. 
 
-A base de dados possui apenas 11MB e o modelo treinado tem 28,5 milhões de parâmetros. Tais números são considerados muito pequenos para os padrões atuais de treinamento dos modelos de linguagem. Deste modo, é valido salientar que o objetivo principal deste trabalho foi o de treinar um protótipo de um modelo GPT para fins didáticos. Os detalhes estão descritos no TCC intitulado "Anatomia do ChatGPT: Aspectos matemáticos e computacionais dos grandes modelos de linguagem", disponível neste repositório. 
+A base de dados possui apenas 11MB e o modelo treinado tem 28,5 milhões de parâmetros. Tais números são considerados muito pequenos para os padrões atuais de treinamento dos modelos de linguagem. Deste modo, é valido salientar que o objetivo principal deste trabalho foi o de treinar um protótipo de um modelo GPT para fins didáticos. Os detalhes estão descritos no TCC intitulado "Anatomia do GPT: Aspectos matemáticos e computacionais de um grande modelo de linguagem", disponível neste repositório. 
 
 Para o treinamento, que durou 8 horas, foi utilizada uma única GPU NVIDIA A100 (40GB). A busca de parâmetros, contudo, consumiu +100 horas de computação. 
 
